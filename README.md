@@ -2,9 +2,10 @@
 In paper, Actual devices are PRAM(not ReRAM). But, It's not significant.
 
 RRAM based DNN simulation both fowarding and backwarding using verilog-A.
-I designed only current path architecture. Application is implemented by my coworkers.
 
-## How to Implementation
+Application is implemented by my coworkers.
+
+## How to Run
 Simulation tool : Questa sim(Model sim). Verilog-A supports only simulation. This code can't synthesis netlist.
 
 1). valib RRAM_lib (You can change work directory name but you have to change .cmd file's work directiory name)
