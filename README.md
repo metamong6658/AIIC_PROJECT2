@@ -5,8 +5,11 @@ I designed only current path architecture. Application is implemented by my cowo
 
 ## How to Implementation
 I Use Questa sim(Model sim).
+
 1). valib RRAM_lib (You can change work directory name but you have to change .cmd file's work directiory name)
+
 2). valog *.v (All file compile)
+
 3). vasim -cmd RRAM_unit.cmd (You can change cmd file's name)
 
 ## Current Path Architecutre
