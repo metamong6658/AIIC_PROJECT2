@@ -1,6 +1,6 @@
 # AIIC_PROJECT2
 In paper, Actual devices are PRAM(not ReRAM). But, It's not significant.
-RRAM based DNN simulation both fowarding and backwarding based verilog-A.
+RRAM based DNN simulation both fowarding and backwarding using verilog-A.
 I designed only current path architecture. Application is implemented bt my team coworkers.
 
 ## Current Path Architecutre
