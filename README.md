@@ -6,7 +6,7 @@ I designed only current path architecture. Application is implemented by my cowo
 ## Current Path Architecutre
 ![image](https://user-images.githubusercontent.com/109369687/204360414-39a79b8f-842f-4891-a162-0ff270cb142d.png)
 
-Feed forward presentation has some problems. Updated presentation is uploded /Doc/presentation.pptx
+This presentation has some problem.(Focus on Loss function's connection, You can find it) Updated presentation is uploded /Doc/presentation.pptx
 ## Application Architecture
 ![image](https://user-images.githubusercontent.com/109369687/204360681-de30c5bc-4ecd-4a9f-9f31-124859808208.png)
 
